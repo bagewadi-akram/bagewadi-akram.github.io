@@ -287,7 +287,12 @@ html * {
   font-family: "Open Sans", sans-serif;
 }
 .in_logo {
-  margin-left: -75px;
+  /* margin-left: -75px; */
+}
+.log{
+  text-decoration: none;
+  font-size: 20px;
+  color: #111;
 }
 .in_social_icon {
   width: 100%;
